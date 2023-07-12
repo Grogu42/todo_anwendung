@@ -1,0 +1,42 @@
+[
+ {
+  "user": "default",
+  "lists": [
+   {
+    "name": "TestListe",
+    "items": [
+     {
+      "name": "TestItem 1",
+      "done": false
+     },
+     {
+      "name": "TestItem 2",
+      "done": false
+     },
+     {
+      "name": "dsfdsf",
+      "done": false
+     }
+    ]
+   },
+   {
+    "name": "Leere Liste",
+    "items": []
+   }
+  ]
+ },
+ {
+  "user": "user2",
+  "lists": [
+   {
+    "name": "sfsf",
+    "items": [
+     {
+      "name": "xcsdf",
+      "done": false
+     }
+    ]
+   }
+  ]
+ }
+]
